@@ -1,0 +1,29 @@
+{
+  "name": "draw-from-array",
+  "version": "1.0.0",
+  "description": "Draw one random element from an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wramp/draw-from-array.git"
+  },
+  "keywords": [
+    "draw",
+    "array",
+    "random",
+    "draw-from-array",
+    "remove"
+  ],
+  "author": "Jakub Gereg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wramp/draw-from-array/issues"
+  },
+  "homepage": "https://github.com/wramp/draw-from-array#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
