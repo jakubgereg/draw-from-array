@@ -1,6 +1,6 @@
 {
   "name": "draw-from-array",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Draw one random element from an array",
   "main": "index.js",
   "scripts": {

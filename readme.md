@@ -1,6 +1,20 @@
 # Draw from Array
 
-Takes out one random element from array.
+Removes one random element from array.
+
+_! Supplied array is mutated_
+
+## Install
+
+```shell
+yarn add draw-from-array
+
+or
+
+npm install  draw-from-array
+```
+
+## Example
 
 ```js
 let drawFromArray = require("draw-from-array");
@@ -22,7 +36,7 @@ let cards = [
 ];
 
 let drawn = drawFromArray(cards);
-//drawn: ["Ace"]
 
-//drawFromArray: ["2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King"]
+//drawn: ["Ace"]
+//cards: ["2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King"]
 ```
