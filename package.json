@@ -1,6 +1,6 @@
 {
   "name": "draw-from-array",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Draw one random element from an array",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,8 @@
     "array",
     "random",
     "draw-from-array",
-    "remove"
+    "remove",
+    "mutate"
   ],
   "author": "Jakub Gereg",
   "license": "MIT",
